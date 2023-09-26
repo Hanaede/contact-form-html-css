@@ -4,6 +4,7 @@
 - Tipografías
 - Formato al formulario
 - Responsive
+- Normalize
 
 #### **Si vas a usarlo no te olvides mencionarme** :octocat:
 
